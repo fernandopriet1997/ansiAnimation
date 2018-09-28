@@ -1,0 +1,1 @@
+ffmpeg -framerate 4 -i "image%1d.jpg" .mp4
